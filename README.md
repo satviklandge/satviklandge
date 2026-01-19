@@ -21,11 +21,19 @@ I enjoy working with data to uncover insights, identify patterns, and create mea
 
 ## 🛠 Tech Stack
 
-- *Programming Language:* Python  
-- *Data Analysis:* Pandas, NumPy  
-- *Data Visualization:* Matplotlib, Seaborn  
-- *Database:* SQL (MySQL)  
-- *Tools:* Jupyter Notebook, GitHub  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-2ECC71?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+ 
 
 ---
 
