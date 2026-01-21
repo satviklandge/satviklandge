@@ -1,4 +1,4 @@
-<h1 align= "center">👋 Hi, I'm Satvik Landge </h1>
+<h1 align= "center"> Hi, I'm Satvik Landge </h1>
 <h3 align ="center"> 
  Python Developer | Data Analyst
 </h3>
