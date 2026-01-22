@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About Me
+##  About Me
 
 I am a *Data Analysis enthusiast* with a strong foundation in Python and SQL.  
 I enjoy working with data to uncover insights, identify patterns, and create meaningful visualizations that support data-driven decision-making.
@@ -19,7 +19,7 @@ I enjoy working with data to uncover insights, identify patterns, and create mea
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,7 +37,7 @@ I enjoy working with data to uncover insights, identify patterns, and create mea
 
 ---
 
-## 📊 What I Work On
+##  What I Work On
 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
@@ -46,7 +46,8 @@ I enjoy working with data to uncover insights, identify patterns, and create mea
 - Small to Medium Data Analysis Projects
 
 ---
-## 🎯 Goals
+## 
+Goals
 
 - Improve data storytelling skills
 - Work on real-world datasets
