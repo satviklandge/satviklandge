@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=satviklandge&label=Profile%20Views&color=00897b&style=for-the-badge&labelColor=0d1117" />
   &nbsp;
   <a href="https://github.com/satviklandge">
-    <img src="https://img.shields.io/badge/GitHub-satviklandge-00897b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-Chhayanklandge-00897b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
